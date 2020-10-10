@@ -50,4 +50,4 @@ As well as properties small list of the component itself.
 
 ## License
 
-[MIT License](https://github.com/nanxiaobei/antd-img-crop/blob/master/LICENSE) (c)
+[MIT License](https://github.com/egorvdovenko/antdv-image-cropper/blob/master/LICENSE) (c)
