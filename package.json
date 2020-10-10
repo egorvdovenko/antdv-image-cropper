@@ -1,7 +1,7 @@
 {
   "name": "antdv-image-cropper",
-  "version": "0.1.0",
-  "description": "An image cropper for Ant Design Vue Upload",
+  "version": "1.0.0",
+  "description": "An image cropper component for Ant Design Vue uploader",
   "author": "yodaskillme@gmail.com",
   "license": "MIT",
   "main": "dist/antdv-image-cropper.common.js",
