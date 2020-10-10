@@ -1,11 +1,15 @@
 {
   "name": "antdv-image-cropper",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An image cropper component for Ant Design Vue uploader",
   "author": "yodaskillme@gmail.com",
   "license": "MIT",
   "main": "dist/antdv-image-cropper.common.js",
-  "keywords": ["ant-design", "vuejs", "image-cropper"],
+  "keywords": [
+    "ant-design",
+    "vuejs",
+    "image-cropper"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/egorvdovenko/antdv-image-cropper"
@@ -17,12 +21,12 @@
     "build-package": "vue-cli-service build --target lib --name antdv-image-cropper ./src/index.js"
   },
   "dependencies": {
-    "ant-design-vue": "^1.6.5",
-    "core-js": "^3.6.5",
-    "vue": "^2.6.11",
     "vue-cropper": "^0.5.5"
   },
   "devDependencies": {
+    "vue": "^2.6.11",
+    "core-js": "^3.6.5",
+    "ant-design-vue": "^1.6.5",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
