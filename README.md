@@ -11,8 +11,8 @@ An image cropper component for Ant Design Vue [uploader](https://www.antdv.com/c
 
 ## Install
 
-```sh
-npm i antd-image-cropper
+```
+npm i antdv-image-cropper
 ```
 
 ## Global registration
