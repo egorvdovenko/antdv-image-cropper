@@ -38,7 +38,7 @@ export default {
 
 ## Props
 You can use all props from **vue-cropper** component which are described [here](https://github.com/xyxiao001/vue-cropper/blob/master/english.md).
-As well as a small list of properties of the component itself.
+As well as properties small list of the component itself.
 
 | Prop | Type | Default | Description |
 | - | - | - | - |
